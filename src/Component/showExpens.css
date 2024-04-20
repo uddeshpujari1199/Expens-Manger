@@ -1,0 +1,17 @@
+.showExp-Details{
+    display: flex;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 800%;
+    justify-content: space-between;
+    background-color: #f8f9fa;
+}
+.showExp-Details span{
+    display: flex;
+    justify-content: space-between;
+    font-size: medium;
+    font-weight: 600;
+    color: #6C757D;
+}
+.showExp-Details .priceExp{
+}

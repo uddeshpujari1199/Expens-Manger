@@ -1,0 +1,20 @@
+.over{
+    display: flex;
+    gap: 150px;
+    padding-bottom: 20px;
+    font-size: x-large;
+    font-weight:600;
+}
+.over div{
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #f8f9fa;
+    color: #6C757D;
+}
+.over .spend{
+    background-color: #CFF4FC;
+    color: #087990;
+}
+.over .remain{
+    color: #198754;
+}
